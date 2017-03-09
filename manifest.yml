@@ -6,3 +6,4 @@ applications:
   name: RachelTaskManager
   host: RachelTaskManager
   disk_quota: 1024M
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
